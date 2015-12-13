@@ -1,11 +1,3 @@
-// The following java code is based on a multi-Layer 
-// Back Propagation Neural Network Class (BackPropagation.class)
-//
-// Created by Anthony J. Papagelis & Dong Soo Kim
-//
-//  DateCreated:	15 September, 2001
-//  Last Update:	24 October, 2001
-
 import java.util.*;
 import java.io.*;
 
